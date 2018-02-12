@@ -1,0 +1,10 @@
+Instacart shares information on their dataset here:
+https://tech.instacart.com/3-million-instacart-orders-open-sourced-d40d29ead6f2
+
+Dataset can be downloaded from S3 at:
+ https://www.instacart.com/datasets/grocery-shopping-2017
+
+or from Kaggle at: 
+https://www.kaggle.com/c/instacart-market-basket-analysis
+
+“The Instacart Online Grocery Shopping Dataset 2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on 02/11/18
